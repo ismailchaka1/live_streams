@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "title": "Tech Talks Live",
+      "description": "A live stream about the latest in tech and innovation.",
+      "url": "https://example.com/tech-talks",
+      "thumbnail": "https://example.com/images/tech-talks-thumbnail.jpg",
+      "stream_start": "2025-02-05T18:00:00Z",
+      "category": "Technology",
+      "host": "John Doe"
+    },
+    {
+      "id": 2,
+      "title": "Gaming World Showdown",
+      "description": "Watch top gamers compete in the ultimate showdown.",
+      "url": "https://example.com/gaming-showdown",
+      "thumbnail": "https://example.com/images/gaming-showdown-thumbnail.jpg",
+      "stream_start": "2025-02-06T20:00:00Z",
+      "category": "Gaming",
+      "host": "Jane Smith"
+    },
+    {
+      "id": 3,
+      "title": "Music Beats Live",
+      "description": "Enjoy live music performances from popular artists.",
+      "url": "https://example.com/music-beats",
+      "thumbnail": "https://example.com/images/music-beats-thumbnail.jpg",
+      "stream_start": "2025-02-07T19:30:00Z",
+      "category": "Music",
+      "host": "DJ Awesome"
+    }
+]
+  
